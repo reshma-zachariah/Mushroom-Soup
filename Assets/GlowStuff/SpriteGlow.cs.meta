@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7f91a23c74f3c4b1c95885fe8a8eaa49
+timeCreated: 1472276273
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - glowPrefab: {fileID: 1000011932401200, guid: 06ceed1c72ab84008b91afdf1a230e8b,
+      type: 2}
+  - translucentMaterial: {fileID: 2100000, guid: 89532593766d54478b06fec447ab5901,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
